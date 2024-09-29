@@ -2,6 +2,18 @@ public class TaskTracker {
     private Task[] tasks = new Task[50];
     public static void main (String[] args) {
          // TODO: Implement logic for input and output
+         // Implement logic for:
+         // add taskName
+
+         // update taskID newTaskName
+
+         // delete taskID
+
+         // mark-in-progress taskID
+
+         // mark-done taskID
+
+         // list by status with: list done or todo or in-progress
     }
 
     public Task[] getAllTasks() {
