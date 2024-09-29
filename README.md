@@ -14,7 +14,7 @@ A simple CLI task tracker, written in Java.
 ## About The App
 This app built in Java can be used to add, update, remove, and list tasks to provide a simple task management system. The app can filter tasks by tasks done and tasks in progress. Tasks are stored in a separate file, preserving the state of the user's task list. 
 
-## Screenshots
+<!-- ## Screenshots -->
 
 ## Technologies
 The program logic is written in Java. The save file is in JSON format. No external libraries or packages were used.
@@ -24,12 +24,12 @@ The program logic is written in Java. The save file is in JSON format. No extern
 * Navigate to repository location
 * Run java TaskTracker from the command line
 
-## Approach
+<!-- ## Approach -->
 
 ## Status
 TaskTracker is still in progress.
 
-## Credits
+<!-- ## Credits -->
 
-## License
+<!-- ## License -->
 
